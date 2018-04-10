@@ -1,0 +1,4 @@
+#! /bin/bash
+
+export STEAM_RUNTIME=0
+env /usr/bin/steam %U
